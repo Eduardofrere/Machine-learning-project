@@ -1,0 +1,6 @@
+venv/
+.venv/
+.DS_Store
+data/*
+data/*.zip
+!data/*.csv

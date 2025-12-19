@@ -17,7 +17,7 @@ METADATA_CSV = PROJECT_ROOT / "data" / "Data_Entry_2017.csv"
 OUTPUT_CSV = PROJECT_ROOT / "data" / "four_class_labels.csv"
 
 # Optional: how many images per class (set to None to keep all)
-IMAGES_PER_CLASS = 200  # or None
+IMAGES_PER_CLASS = 1000  # or None
 
 
 # Classes we care about

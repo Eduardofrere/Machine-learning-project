@@ -21,7 +21,7 @@ training a deep learning model
 
 evaluating the model on a test set
 
-📦 Dataset & Preprocessing
+Dataset & Preprocessing
 
 The NIH dataset includes many disease labels, and some images contain multiple findings.
 To make the problem simpler and more focused, We only kept the four classes we needed.
@@ -77,7 +77,7 @@ CHESTXRAY_PROJECT/
 
 Note: The raw images are not included in the repository because the dataset is very large (45GB+). The .gitignore file prevents these from being uploaded.
 
-▶️ How to Run
+How to Run
 1. Create and activate the virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
